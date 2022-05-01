@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Emanfaisal
 - 👀 I’m interested in mobile and web app
 - 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on ...
+- And I'm Very glad to learn it
 - 📫 How to reach me emanfaisalofficial@gmail.com
 - I love facing big challenges
 
